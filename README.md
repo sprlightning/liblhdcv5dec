@@ -20,5 +20,5 @@ liblhdcv5dec for ESP-IDF.
 	│
 	└─src
 			lhdcv5BT_dec.c
-			lhdcv5_util_dec.
+			lhdcv5_util_dec.c
 	```
